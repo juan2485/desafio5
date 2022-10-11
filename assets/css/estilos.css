@@ -13,6 +13,10 @@ body {
 
 /* Hero Section */
 
+.diseño_titulo {
+  text-shadow: 1px 3px black, 4px 4px orangered;
+}
+
 #Hero-Section {
   background-image: url("../img/araucania-1.jpg");
   background-repeat: no-repeat;
@@ -23,7 +27,7 @@ body {
 .color_fuente {
   font-size: 100px;
   color: green;
-  text-shadow: 1px 2px red, 4px 4px blue;
+  text-shadow: 1px 6px black, 4px 6px cadetblue;
 }
 
 /* Mis trabajos */
@@ -34,6 +38,17 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+/* Viajes */
+
+.diseño_fuente {
+  text-shadow: 1px 2px yellow, 4px 4px cadetblue;
+}
+
+.color_fondo {
+  background-color: green;
+}
+
 
 /* Contacto */
 
